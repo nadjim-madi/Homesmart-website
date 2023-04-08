@@ -1,6 +1,6 @@
-# HOME Smart 📱
+# HomeSmart 📱
 
-HOME Smart is a landing page website created using HTML, TailwindCSS, and JS. This is my first website using TailwindCSS, and it was created following a tutorial. This website is an excellent repository if you want to start using TailwindCSS. 
+HomeSmart is a landing page website created using HTML, TailwindCSS, and JS. This is my first website using TailwindCSS, and it was created following a tutorial. This website is an excellent repository if you want to start using TailwindCSS. 
 
 ## ✨ Features
 
