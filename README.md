@@ -7,7 +7,7 @@ HOME Smart is a landing page website created using HTML, TailwindCSS, and JS. Th
 - Responsive design
 - Dark/White modes
 - User disability friendly
-- Hamburger menu created using JS (personal choice taken as a challenge)
+- Hamburger menu created using JS (personal choice taken as a challenge 😄)
 
 ## 👨🏼‍💻 Getting Started
 
