@@ -22,7 +22,7 @@ Feel free to use this website as a template for your own projects. You can modif
 ## 👏 Credits and Acknowledgements
 
 I would like to thank the following resources for their help in creating this website:
-- The tutorial that I followed to create this website 
+- Coding in Public for his tutorial 
 - TailwindCSS for their incredible documentation
 
 
