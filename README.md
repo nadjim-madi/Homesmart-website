@@ -1,6 +1,6 @@
-# HomeSmart 📱
+# Homesmart 📱
 
-HomeSmart is a landing page website created using HTML, TailwindCSS, and JS. This is my first website using TailwindCSS, and it was created following a tutorial. This website is an excellent repository if you want to start using TailwindCSS. 
+Homesmart is a landing page website created using HTML, TailwindCSS, and JS. This is my first website using TailwindCSS, and it was created following a tutorial. This website is an excellent repository if you want to start using TailwindCSS. 
 
 ## ✨ Features
 
@@ -11,7 +11,7 @@ HomeSmart is a landing page website created using HTML, TailwindCSS, and JS. Thi
 
 ## 👨🏼‍💻 Getting Started
 
-To get started with the HOME Smart website, simply clone this repository to your local machine and open the index.html file in your web browser. 
+To get started with the Homesmart website, simply clone this repository to your local machine and open the index.html file in your web browser. 
 
 ``git clone https://github.com/nadjim-madi/Smart-Home-website.git``
 
