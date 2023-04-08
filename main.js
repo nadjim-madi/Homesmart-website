@@ -1,6 +1,6 @@
 import './style.css'
 
-const navbtn = document.querySelector('#menu'); //get element by id 
+const navbtn = document.querySelector('#menu'); // it's equal to get element by id 
 const menubar = document.querySelector('[role="menubar"]');
 const menuBtn = document.getElementById('menu-btn');
 const menuBtnbefore = document.getElementById('before')
